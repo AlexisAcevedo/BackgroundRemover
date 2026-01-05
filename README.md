@@ -13,6 +13,7 @@ Una aplicación de escritorio moderna y elegante para eliminar fondos de imágen
 - 📂 **Carpeta personalizable**: Elige dónde guardar tus imágenes procesadas
 - 📊 **Barra de progreso**: Visualiza el estado del procesamiento en tiempo real
 - 🔄 **Organización automática**: Las imágenes se guardan con timestamp y estructura organizada
+- 📱 **Diseño Responsive**: Interfaz adaptable que ajusta automáticamente los textos y controles al tamaño de la ventana
 
 ## 🚀 Instalación
 
